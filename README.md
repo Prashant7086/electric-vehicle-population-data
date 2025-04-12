@@ -7,7 +7,6 @@ The dataset originates from publicly available government records and has been e
 ## Project Overview
 
 Electric vehicles are becoming increasingly central to global sustainability efforts. This project aims to understand how EV adoption is evolving by addressing the following objectives:
-
 - Analyze trends in EV adoption by model year to identify growth patterns.
 - Determine the most popular makes and models across different regions.
 - Explore the geographic distribution of EVs, highlighting cities and counties with the highest adoption rates.
