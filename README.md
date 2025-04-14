@@ -1,6 +1,6 @@
 # Electric Vehicle Population Data Analysis
 
-This project presents a comprehensive analysis of electric vehicle (EV) adoption trends using real-world registration data. Through data visualization and statistical exploration, it offers key insights into the growth and distribution of electric vehicles, shedding light on patterns across manufacturers, cities, and model years.
+This project presents a comprehensive analysis of electric vehicle (EV) adoption trends using real-world registration data. Through data visualization and statistical exploration, it offers key insights into the growth and distribution of electric vehicles, shedding light on patterns across manufacturers, cities,  model years.
 
 The dataset originates from publicly available government records and has been explored using Python with a focus on clarity, simplicity, and impactful visual storytelling.
 
